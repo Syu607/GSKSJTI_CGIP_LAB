@@ -29,4 +29,4 @@ python -m notebook
 
 Open the Command Prompt and run the following command using pip install to install packages:
 
-pip install vpython opencv numpy pygame pyopengl random2
+pip install vpython opencv-python numpy pygame pyopengl random2
