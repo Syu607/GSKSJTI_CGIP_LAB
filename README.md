@@ -25,7 +25,7 @@ or
 python -m notebook
 
 
-# Install the below pages for your programs to run
+# Install the below libraries for your programs to run
 
 Open the Command Prompt and run the following command using pip install to install packages:
 
