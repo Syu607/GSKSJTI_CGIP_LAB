@@ -1,3 +1,6 @@
+# Note: For Output Refer Lab Manual
+
+# Software Setup
 Jupyter Notebook Install Using pip on Windows
 If you prefer not to use conda, you can install Jupyter Notebook using pip package manager for Python.
  
@@ -20,3 +23,10 @@ jupyter notebook
 or
 
 python -m notebook
+
+
+# Install the below pages for your programs to run
+
+Open the Command Prompt and run the following command using pip install to install packages:
+
+pip install vpython opencv numpy pygame pyopengl random2
